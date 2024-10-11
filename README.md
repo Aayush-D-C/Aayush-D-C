@@ -1,9 +1,9 @@
 
-<h1 align="center" style="font-size: 80px; font-family: 'Verdana', sans-serif; color: #00FF00;">
+<h1 align="center" style="font-size: 100px; font-weight:800; font-family: 'Verdana', sans-serif; color: #00FF00;">
   Hello, I'm Aayush Dangi!
 </h1>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="500px" height="500px">
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="1000px" height="1000px">
 
 
 ![GIF of Hacker Code](https://yourgiflink.com/hacker.gif)
