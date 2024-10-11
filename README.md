@@ -23,7 +23,7 @@ My key interests are:
 ![Hacker GIF](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
 
 ```bash
-$ git clone https://github.com/YourUsername/YourRepo.git
+$ git clone https://github.com/Aayush-D-C/fun.git
 $ cd YourRepo
 $ npm install
 $ npm start
