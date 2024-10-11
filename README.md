@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-size: 60px; font-family: 'Arial', sans-serif; color: #00FF00;">
+<h1 align="center" style="font-size: 80px; font-family: 'Verdana', sans-serif; color: #00FF00;">
   Hello, I'm Aayush Dangi!
 </h1>
 
