@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm [Your Name]! 👨‍💻
 
-<!--
-**Aayush-D-C/Aayush-D-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GIF of Hacker Code](https://yourgiflink.com/hacker.gif)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate coder and aspiring game developer!  
+My key interests are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔥 Coding cool projects
+- 🎮 Game development
+- 🌐 Exploring tech trends
+
+## 🛠️ Technologies I Use
+```bash
+$ echo "Hello World"
+
+<p> <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" alt="python" /> <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="javascript" /> <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus" alt="C++" /> </p>
+
