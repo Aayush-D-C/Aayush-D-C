@@ -1,4 +1,7 @@
-# Hello, I'm Aayush Dangi! 👨‍💻
+# Hello, I'm Aayush Dangi! <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50px">
+
+/ _ _| | ___ _ () ___ __ | |
+| | | / | |/ _ | '| |/ / ` | ' \ | || _ \ | () | | | | (| (_| | | | | _/|/|_/|| ||____,|| ||
 
 ![GIF of Hacker Code](https://yourgiflink.com/hacker.gif)
 
@@ -8,16 +11,13 @@ My key interests are:
 
 - 🔥 Coding cool projects
 - 🎮 Game development
+- 3D Modeiling With Blender
 - 🌐 Exploring tech trends
 
 ## 🛠️ Technologies I Use
-```bash
-$ echo "Hello World"
-```
+<p align="center"> <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Code-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> </p>
 
-<p><img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="javascript" /> <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus" alt="C++" /> </p>
-
-![Hacker GIF]([https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw0fVavCzS9YTpWb2JvtF1LB&ust=1728744033814000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDw9sHHhokDFQAAAAAdAAAAABAE))
+![Hacker GIF](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
 
 ```bash
 $ git clone https://github.com/YourUsername/YourRepo.git
@@ -28,4 +28,8 @@ $ npm start
 
 ![HTML5](https://img.shields.io/badge/Code-HTML5-orange?style=flat-square&logo=html5)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical&hide_border=true)
 
