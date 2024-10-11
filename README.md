@@ -1,4 +1,8 @@
-# Hello,                        I'm Aayush Dangi! <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50px">
+# Introduction
+
+<h1 align="center" style="font-size: 60px; font-family: 'Arial', sans-serif; color: #00FF00;">
+  # Hello, I'm Aayush Dangi!
+</h1>
 
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="500px" height="500px">
 
