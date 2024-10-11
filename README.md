@@ -1,7 +1,7 @@
 # Hello, I'm Aayush Dangi! <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50px">
 
-/ _ _| | ___ _ () ___ __ | |
-| | | / | |/ _ | '| |/ / ` | ' \ | || _ \ | () | | | | (| (_| | | | | _/|/|_/|| ||____,|| ||
+<img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/banner.png" width="1000px" height="500px">
+
 
 ![GIF of Hacker Code](https://yourgiflink.com/hacker.gif)
 
